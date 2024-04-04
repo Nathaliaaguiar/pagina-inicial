@@ -370,8 +370,9 @@ footer {
   color: #fefefe;
   position: absolute;
   top: 0;
-  right: -10px;
-  /* Ajuste conforme necessário para posicionar o contador corretamente */
+  right: -10px; /* Ajuste conforme necessário para posicionar o contador corretamente */
+  cursor: pointer; /*essa linha serve para mudar o cursor do mouse para uma mãozinha quando passar o mouse em cima do contador*/
+ 
 }
 
 .finalizar-compra-btn {
